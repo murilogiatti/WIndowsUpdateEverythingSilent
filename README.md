@@ -20,7 +20,7 @@
 ## Usage
 1. Open PowerShell
 2. Run the script
-3.The script will:
+3. The script will:
   - Update Winget apps
   - Apply Windows updates
   - Prompt for reboot if needed
