@@ -25,8 +25,7 @@ UpdateEverythingSilent.ps1 is a PowerShell script for Windows 10/11 (including 2
 ## Usage
 To run the script, copy and paste the following command into a PowerShell window. This will download and execute the script as **Administrator**:
 
-"```powershell
-Start-Process powershell -ArgumentList "iwr https://raw.githubusercontent.com/murilogiatti/WindowsUpdateEverythingSilent/main/UpdateEverythingSilent.ps1 | iex" -Verb RunAs"
+Start-Process powershell -ArgumentList "iwr https://raw.githubusercontent.com/murilogiatti/WindowsUpdateEverythingSilent/main/UpdateEverythingSilent.ps1 | iex" -Verb RunAs
 
 ---
 
