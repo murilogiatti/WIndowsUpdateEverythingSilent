@@ -27,7 +27,7 @@ To run the script, copy and paste the following command into a PowerShell window
 
 ```powershell
 Start-Process powershell -ArgumentList "iwr https://raw.githubusercontent.com/murilogiatti/WindowsUpdateEverythingSilent/main/UpdateEverythingSilent.ps1 | iex" -Verb RunAs
-
+``
 ---
 
 ## Notes
