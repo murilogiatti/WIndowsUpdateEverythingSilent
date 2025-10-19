@@ -18,17 +18,14 @@
 - Internet connection
 
 ## Usage
-1. Open PowerShell as Administrator.
-2. Run the script:
-
-```powershell
-.\UpdateEverythingSilent.ps1
-
+1. Open PowerShell
+2. Run the script
 3.The script will:
   - Update Winget apps
   - Apply Windows updates
   - Prompt for reboot if needed
   - Open Microsoft Store updates page
+
 
 **## Notes**
 
