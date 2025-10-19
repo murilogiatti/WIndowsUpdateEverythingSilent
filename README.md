@@ -26,11 +26,10 @@
   - Prompt for reboot if needed
   - Open Microsoft Store updates page
 
-
-**## Notes**
+## Notes
 
   - Microsoft Store apps cannot be updated automatically; click Get updates manually.
   - The script sets ExecutionPolicy for current user only.
 
-**## License**
+## License
 MIT License
